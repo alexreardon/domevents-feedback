@@ -1,8 +1,8 @@
 ---
 name: Suggest improvement
-about: Suggest an idea for the dom-events website
+about: Raise an idea or improvement
 title: ''
-labels: enhancement
+labels: improvement
 assignees: ''
 
 ---
