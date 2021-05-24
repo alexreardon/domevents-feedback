@@ -15,4 +15,5 @@
 - [JavaScriptDaily](https://twitter.com/JavaScriptDaily/status/1395053387448819712)
 - [Sidebar.io - 20th June 2021](https://sidebar.io/date/2021-05-20)
 - [Awesome JavaScript Weekly - 261](https://js.libhunt.com/newsletter/261)
+- [TinyJS - 24](https://buttondown.email/tinyjs/archive/tinyjs-24/)
 - [Reedit](https://www.reddit.com/r/webdev/comments/nevcmm/domeventsdev_a_visualiser_to_help_people_learn/)
