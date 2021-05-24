@@ -13,7 +13,10 @@
 - [JavaScript Weekly - 539](https://javascriptweekly.com/issues/539) featured article!
 - [Postlight - 20th June 2021](https://mailchi.mp/postlight/our-commitment-to-voter-rights-1105990)
 - [JavaScriptDaily](https://twitter.com/JavaScriptDaily/status/1395053387448819712)
+- [Cassidoo - 197](https://buttondown.email/cassidoo/archive/dont-be-afraid-if-you-dont-exercise-your-rights/)
+- [Frontend Focus - 491](https://frontendfoc.us/issues/491)
 - [Sidebar.io - 20th June 2021](https://sidebar.io/date/2021-05-20)
+- [Web Weekly #20](https://www.stefanjudis.com/blog/web-weekly-20/)
 - [Awesome JavaScript Weekly - 261](https://js.libhunt.com/newsletter/261)
 - [TinyJS - 24](https://buttondown.email/tinyjs/archive/tinyjs-24/)
 - [Reedit](https://www.reddit.com/r/webdev/comments/nevcmm/domeventsdev_a_visualiser_to_help_people_learn/)
