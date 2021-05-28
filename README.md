@@ -16,6 +16,8 @@
 - [Cassidoo - 197](https://buttondown.email/cassidoo/archive/dont-be-afraid-if-you-dont-exercise-your-rights/)
 - [Frontend Focus - 491](https://frontendfoc.us/issues/491)
 - [Sidebar.io - 20th June 2021](https://sidebar.io/date/2021-05-20)
+- [WDRL - 288](https://wdrl.info/archive/288)
+- [CSS Weekly - 461](https://css-weekly.com/issue-461/)
 - [CSS Animation Weekly - 252](http://weekly.cssanimation.rocks/issues/css-animation-weekly-252-617025)
 - [Web Weekly - 20](https://www.stefanjudis.com/blog/web-weekly-20/)
 - [Awesome JavaScript Weekly - 261](https://js.libhunt.com/newsletter/261)
