@@ -16,6 +16,7 @@
 - [Cassidoo - 197](https://buttondown.email/cassidoo/archive/dont-be-afraid-if-you-dont-exercise-your-rights/)
 - [Frontend Focus - 491](https://frontendfoc.us/issues/491)
 - [Sidebar.io - 20th June 2021](https://sidebar.io/date/2021-05-20)
+- [Smashing Magazine - 5th June 2021](https://twitter.com/smashingmag/status/1400858869837045763)
 - [WDRL - 288](https://wdrl.info/archive/288)
 - [FullStack Bulletin - 22](https://us15.campaign-archive.com/?u=b015626aa6028495fe77c75ea&id=01946ab375)
 - [CSS Weekly - 461](https://css-weekly.com/issue-461/)
@@ -23,4 +24,5 @@
 - [Web Weekly - 20](https://www.stefanjudis.com/blog/web-weekly-20/)
 - [Awesome JavaScript Weekly - 261](https://js.libhunt.com/newsletter/261)
 - [TinyJS - 24](https://buttondown.email/tinyjs/archive/tinyjs-24/)
+- [Gigazine (japanese)](https://gigazine.net/news/20210603-explore-dom-events-javascript/)
 - [Reedit](https://www.reddit.com/r/webdev/comments/nevcmm/domeventsdev_a_visualiser_to_help_people_learn/)
